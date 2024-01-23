@@ -1,0 +1,5 @@
+I have been thingking about how to get this project started, I need to fully set up nvim, with lazy vim, all of the harpoon and other functions, and the correct clues and autocomplete.
+The reason I need that is because I want flutter in nvim to have the same really useful shortcuts that it has in vscode. Also I wanna see if I can get the nvim ssh to work, with the current devices nvim setup, ideally without needing to install anything in the host pc.
+
+Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.u
+
